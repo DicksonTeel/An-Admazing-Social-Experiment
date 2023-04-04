@@ -5,7 +5,7 @@ I made this website for the sole purpose of containing ads to conduct an ongoing
 
 In the name of transparency; all charities that receive funds and the amount of money they have received will be listed on a separate page accessible through a navigation bar at the top of the main testing screen, and the total amount of money donated will be included at the top of that page.
 
-<button onclick = "window.location.href='MainTestPage.html';">Go to the Experiment</button>
+<button onclick = "window.location.href='/Site Files/MainTestPage.html';">Go to the Experiment</button>
 
 ---
 
