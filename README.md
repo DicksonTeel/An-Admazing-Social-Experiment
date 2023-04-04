@@ -5,6 +5,6 @@ I made this website for the sole purpose of containing ads to conduct an ongoing
 
 In the name of transparency; all charities that receive funds and the amount of money they have received will be listed on a separate page accessible through a navigation bar at the top of the main testing screen, and the total amount of money donated will be included at the top of that page.
 
-<button onclick = "window.location.href='https://github.com/DicksonTeel/An-Admazing-Social-Experiment/blob/main/Site%20Files/MainTestPage.html';">Go to the Experiment</button>
+<button onclick = "window.location.href='https://dicksonteel.github.io/An-Admazing-Social-Experiment/Site%20Files/MainTestPage.html';">Go to the Experiment</button>
 
 [^donationException]: The only exception for these donations being any money that is required to enable/sustain this site. Expectations at this time (April 4, 2023) are that less than 1% of revenue made will be kept to sustain the site.
