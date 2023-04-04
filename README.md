@@ -25,6 +25,6 @@ In the name of transparency; all charities that receive funds and the amount of 
 <input type="submit" onClick="myFunction()" value="Go to the Experiment" class="button" />
   <script>
     function myFunction() {
-      window.location.href = "FirstPage.html";
+      window.location.href = "MainTestPage.html";
     }
   </script>
