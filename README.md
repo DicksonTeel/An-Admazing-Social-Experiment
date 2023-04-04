@@ -1,5 +1,5 @@
 # Welcome to an Admazing Social Experiment
-I made this website for the sole purpose of containing ads to conduct an ongoing social experiment.  I grew curious if, in our adblocking society, there were people who would allow ads for perceptively moral reasons? During the lifespan of this website, all revenue gained from ads will be going towards a large number of charities.[^dontaionException]
+I made this website for the sole purpose of containing ads to conduct an ongoing social experiment.  I grew curious if, in our adblocking society, there were people who would allow ads for perceptively moral reasons? During the lifespan of this website, all revenue gained from ads will be going towards a large number of charities.[^donationException]
 
 [^donationException]: The only exception for these donations being any money that is required to enable/sustain this site
 
