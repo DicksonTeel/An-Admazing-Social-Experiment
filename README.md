@@ -7,24 +7,4 @@ In the name of transparency; all charities that receive funds and the amount of 
 
 [^donationException]: The only exception for these donations being any money that is required to enable/sustain this site. Expectations at this time (April 4, 2023) are that less than 1% of revenue made will be kept to sustain the site.
 
-<style>
-  .button {
-    border-width: 10;
-    border-color: rgb(0, 0, 0);
-    background-color: #ffffff;
-    color: rgb(0, 0, 0);
-    padding: 14px 28px;
-    font-size: 16px;
-    cursor: pointer;
-    text-align: center;
-    position: absolute;
-    bottom: 10%;
-    right: 10%;
-  }
-</style>
-<input type="submit" onClick="myFunction()" value="Go to the Experiment" class="button" />
-  <script>
-    function myFunction() {
-      window.location.href = "MainTestPage.html";
-    }
-  </script>
+<button onclick = "window.location.href='https://github.com/DicksonTeel/An-Admazing-Social-Experiment/blob/main/Site%20Files/MainTestPage.html';">Go to the Experiment</button>
