@@ -7,4 +7,6 @@ In the name of transparency; all charities that receive funds and the amount of 
 
 <button onclick = "window.location.href='https://dicksonteel.github.io/An-Admazing-Social-Experiment/Site%20Files/MainTestPage.html';">Go to the Experiment</button>
 
+---
+
 [^donationException]: The only exception for these donations being any money that is required to enable/sustain this site. Expectations at this time (April 4, 2023) are that less than 1% of revenue made will be kept to sustain the site.
