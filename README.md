@@ -1,4 +1,13 @@
 <head>
+<!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LJNW4J2J50"></script>
+        <script>
+         window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-LJNW4J2J50');
+        </script>
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2691315622142487"
      crossorigin="anonymous"></script>
 </head>
