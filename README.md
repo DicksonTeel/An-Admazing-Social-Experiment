@@ -1,7 +1,7 @@
 # Welcome to an Admazing Social Experiment
 
 <link rel="stylesheet" href="main.css">
-<body class="darkTheme"></body>
+<body class="darkTheme">
 
 I made this website for the sole purpose of containing ads to conduct an ongoing social experiment. I grew curious if there were people, in our society where anti-tracking measures are becoming more and more important, who would allow ads for perceptively moral reasons? During the lifespan of this website, all revenue gained from ads will be going towards a growing number of charities.[^donationException]
 
@@ -9,14 +9,14 @@ I made this website for the sole purpose of containing ads to conduct an ongoing
 
 In the name of transparency; all charities that receive funds and the amount of money they have received will be listed on a separate page accessible through a navigation bar at the top of the main testing screen, and the total amount of money donated will be included at the top of that page.
 
-<!-- <button onclick = "window.location.href='/Site Files/MainTestPage.html';">Go to the Experiment</button> -->
-
   <input type="submit" onClick="myFunction()" value="Go to the Experiment" class="button" />
   <script>
     function myFunction() {
       window.location.href = "MainTestPage.html";
     }
   </script>
+
+</body>
 
 ---
 
