@@ -1,3 +1,8 @@
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2691315622142487"
+     crossorigin="anonymous"></script>
+</head>
+
 # Welcome to an Admazing Social Experiment
 I made this website for the sole purpose of containing ads to conduct an ongoing social experiment. I grew curious if there were people, in our society where anti-tracking measures are becoming more and more important, who would allow ads for perceptively moral reasons? During the lifespan of this website, all revenue gained from ads will be going towards a growing number of charities.[^donationException]
 
