@@ -1,0 +1,8 @@
+:root{
+    --black: black;
+    --white: white;
+}
+.darkTheme{
+    --bg:var(--black);
+    --fontColor:var(--white);
+}
